@@ -10,3 +10,8 @@ import Foundation
 
 print("Hello, World!")
 
+opereacionesAritmeticas(10, b:20);
+pago("Lilian Cruz",sueldo: 500 ,extras: 2,pagoExtras: 10)
+edad(19)
+numeroPrimo(13)
+diaSemana("lunes")
